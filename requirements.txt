@@ -1,0 +1,10 @@
+python-dotenv
+tqdm
+openai
+pinecone-client>=3.0.0
+langchain
+langchain-openai
+langchain-pinecone
+langchain-community
+pdf2image
+pytesseract
